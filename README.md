@@ -1,2 +1,5 @@
 # ml-bottleneck-test
- A Python script that identifies performance bottlenecks in machine learning training
+This is a Python script I created to understand my laptop's performance when connected to an external GPU via Oculink. 
+
+
+
